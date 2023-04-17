@@ -17,6 +17,9 @@
     "coverImage": "",
     "entryPoint": "build/index.html"
   },
+  "files": [
+    "build"
+  ],
   "dependencies": {
     "@types/node": "^18.15.11",
     "@types/react": "^18.0.37",
