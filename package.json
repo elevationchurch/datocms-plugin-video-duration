@@ -6,6 +6,17 @@
     "name": "Ulises Himely",
     "url": "https://ulises.codes"
   },
+  "homepage": "https://github.com/elevationchurch/datocms-plugin-video-duration",
+  "description": "Takes a field with a video link, and returns the duration of that video. That is all.",
+  "keywords": [
+    "datocms-plugin"
+  ],
+  "datoCmsPlugin": {
+    "title": "datocms-plugin-video-duration",
+    "previewImage": "",
+    "coverImage": "",
+    "entryPoint": "build/index.html"
+  },
   "dependencies": {
     "@types/node": "^18.15.11",
     "@types/react": "^18.0.37",
@@ -43,11 +54,5 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
-  },
-  "datoCmsPlugin": {
-    "title": "",
-    "previewImage": "",
-    "coverImage": "",
-    "entryPoint": "build/index.html"
   }
 }
