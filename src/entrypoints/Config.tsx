@@ -1,10 +1,8 @@
 import { RenderManualFieldExtensionConfigScreenCtx } from 'datocms-plugin-sdk';
 import {
   Canvas,
-  DropdownOption,
   Form,
   SelectField,
-  SelectInput,
   SwitchField,
   TextField,
 } from 'datocms-react-ui';
