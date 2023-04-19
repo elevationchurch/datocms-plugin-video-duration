@@ -7,7 +7,7 @@
     "url": "https://ulises.codes"
   },
   "homepage": "https://github.com/elevationchurch/datocms-plugin-video-duration",
-  "description": "Takes a field with a video link, and returns the duration of that video. That is all.",
+  "description": "Takes a field with a video or audio link, and returns the duration of that video or audio resource. That is all.",
   "keywords": [
     "datocms-plugin"
   ],
